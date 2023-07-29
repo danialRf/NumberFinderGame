@@ -5,7 +5,7 @@ int guess = (min+max)/2;
 
 for (int i = 0; i < guess; i++)
 {
-    Console.WriteLine($"is your answer bigger than {guess}");
+    Console.WriteLine($"is your answer bigger than {guess},  type Y/N for yes/no ");
     string answer = Console.ReadLine();
 
     if (answer == "Y")
