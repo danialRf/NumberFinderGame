@@ -1,0 +1,15 @@
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\bin\Debug\net6.0\NumberFinderGame.exe
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\bin\Debug\net6.0\NumberFinderGame.deps.json
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\bin\Debug\net6.0\NumberFinderGame.runtimeconfig.json
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\bin\Debug\net6.0\NumberFinderGame.dll
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\bin\Debug\net6.0\ref\NumberFinderGame.dll
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\bin\Debug\net6.0\NumberFinderGame.pdb
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.csproj.AssemblyReference.cache
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.AssemblyInfoInputs.cache
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.AssemblyInfo.cs
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.csproj.CoreCompileInputs.cache
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.dll
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\ref\NumberFinderGame.dll
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.pdb
+E:\Coding\c#\NumberFinderGame\NumberFinderGame\obj\Debug\net6.0\NumberFinderGame.genruntimeconfig.cache

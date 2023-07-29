@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b625eaee-c237-4dc1-bae4-069e85e94210": {
+      "ProjectGuid": "b625eaee-c237-4dc1-bae4-069e85e94210",
+      "DisplayName": "NumberFinderGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
